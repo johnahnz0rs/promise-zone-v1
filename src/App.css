@@ -1,0 +1,59 @@
+.root-div {
+    /*margin: 20px;*/
+    width: 100vw;
+    height: 100vh;
+    padding: 20px;
+    background-color: cornflowerblue;
+}
+.home-top {
+    /*background-color: cornflowerblue;*/
+    padding-bottom: 50px;
+    margin-bottom: 50px;
+    border-bottom: 1px solid black;
+    border-right: 1px solid black;
+    border-bottom-right-radius: 8px;
+    width: 100%;
+}
+
+
+
+.nav-buttons-row {
+    width: 100%;
+}
+
+
+.btn-working-group {
+    display: inline-block;
+    background-color: cornflowerblue;
+}
+.img-working-group {
+    width: 150px;
+    height: 100px;
+    display: inline-block;
+}
+.btn-metric {
+
+}
+.img-metric {
+    width: 150px;
+    height: 85px;
+}
+.btn-economic-opportunities {
+    /*currently using screenshot img of buttons*/
+    /*can customize buttons later*/
+}
+.btn-education {
+    /*currently using screenshot img of buttons*/
+    /*can customize buttons later*/
+}
+.btn-public-safety {
+    /*currently using screenshot img of buttons*/
+    /*can customize buttons later*/
+}
+.btn-neighborhood {
+    /*currently using screenshot img of buttons*/
+    /*can customize buttons later*/
+}
+.btn-goal {
+
+}
