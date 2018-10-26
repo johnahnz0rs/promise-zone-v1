@@ -1,7 +1,7 @@
 .root-div {
     /*margin: 20px;*/
-    width: 100vw;
-    height: 100vh;
+    width: 100%;
+    height: 100%;
     padding: 20px;
     background-color: cornflowerblue;
 }
@@ -27,16 +27,37 @@
     background-color: cornflowerblue;
 }
 .img-working-group {
-    width: 150px;
-    height: 100px;
+    /*width: 150px;*/
+    /*height: 100px;*/
+    width: 95%;
+    height: auto;
     display: inline-block;
 }
+
+
+
+
+
+.data-text {
+    margin-left: 20px;
+    padding: 20px;
+    border: 1px solid black;
+    border-left: none;
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+}
+
+
 .btn-metric {
 
 }
 .img-metric {
-    width: 150px;
-    height: 85px;
+    /*width: 150px;*/
+    /*height: 85px;*/
+    width: 95%;
+    height: auto;
+    display: block;
+    margin: 0 auto 20px auto;
 }
 .btn-economic-opportunities {
     /*currently using screenshot img of buttons*/
@@ -56,4 +77,12 @@
 }
 .btn-goal {
 
+}
+
+
+.maps {
+    border: 1px solid black;
+    width: 95%;
+    height: 500px;
+    margin: 20px;
 }
